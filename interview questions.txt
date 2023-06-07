@@ -1,0 +1,24 @@
+
+                                              ==> Interview 3/6/2022
+     Frequently asked questions:
+  
+     Tell mi about yourself?  
+  
+   1) What is testNg and tell mi about all the anotaion which is to be provided by the TestNg?
+   2) What is the diierence in between List and the Set interface?
+   3) What is the return type of the getwindowhandle() and getwindohandles(), ho you can handele all the multiple windows?
+   4) How you can invoke the driver? What is difference in between the webdriver and chromedriver?
+   5) In practicall where you have used thr list and set interface?
+   6) What is the interface? tell mi in brief? And what are the different types of the iinterfacss that is to be present 
+     in the java and the selenium?
+   7) what are the POM classes in the selenium?
+
+   8) What are the action class in the selenium? Suppose i want to click right click on the one of the webelement at
+     that time how i can click?
+    
+   9) Tell mi which type of the defect that you raised in the privious project? 
+   10) Why we are using the static keyword in the main method ? what happend if we are not using this?
+   11) If you have not the requirment at that time what will be your approch?  
+   12) which tools that you used in Automation testing?
+   13) What is Webdriver? 
+   14) Have you ever aware about the BDD framework or not? 
